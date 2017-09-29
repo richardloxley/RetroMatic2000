@@ -69,4 +69,6 @@ Here are links to all the relevant blog posts:
 
 [RetroMatic 2000 update 23: finishing the case](https://www.richardloxley.com/2017/05/12/retromatic-2000-update-23-finishing-the-case/)
 
+[RetroMatic 2000 update 24: publishing the code](https://www.richardloxley.com/2017/09/29/retromatic-2000-update-24-publishing-the-code/)
+
 Feel free to contact me if you have any questions!
